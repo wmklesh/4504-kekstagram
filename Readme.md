@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Зимин](https://up.htmlacademy.ru/javascript/12/user/4504).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Попов`.
 
 ---
 
